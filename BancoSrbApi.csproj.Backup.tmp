@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="BancoSrbApi.Domain\Entities\Idempotencia.cs\**" />
+    <Content Remove="BancoSrbApi.Domain\Entities\Idempotencia.cs\**" />
+    <EmbeddedResource Remove="BancoSrbApi.Domain\Entities\Idempotencia.cs\**" />
+    <None Remove="BancoSrbApi.Domain\Entities\Idempotencia.cs\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.1.66" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.8" />
+    <PackageReference Include="Microsoft.Data.Sqlite" Version="9.0.9" />
+    <PackageReference Include="NSubstitute" Version="5.3.0" />
+  </ItemGroup>
+
+</Project>

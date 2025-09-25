@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "BancoSrbApi.Web.Controllers.ContaCorrenteController",
+    "Method": "GetSaldo",
+    "RelativePath": "api/ContaCorrente/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BancoSrbApi.Web.Controllers.MovimentoController",
+    "Method": "Post",
+    "RelativePath": "api/Movimento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "BancoSrbApi.BancoSrbApi.Application.Dtos.MovimentoRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

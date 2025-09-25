@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samuk\\OneDrive\\Desktop\\GftTest\\BancoSrbApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F926ED35-3060-4952-A112-182BB2018EFC}|BancoSrbApi.csproj|c:\\users\\samuk\\onedrive\\desktop\\gfttest\\bancosrbapi\\bancosrbapi.application\\services\\movimentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F926ED35-3060-4952-A112-182BB2018EFC}|BancoSrbApi.csproj|solutionrelative:bancosrbapi.application\\services\\movimentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F926ED35-3060-4952-A112-182BB2018EFC}|BancoSrbApi.csproj|c:\\users\\samuk\\onedrive\\desktop\\gfttest\\bancosrbapi\\bancosrbapi.application\\services\\contacorrenteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F926ED35-3060-4952-A112-182BB2018EFC}|BancoSrbApi.csproj|solutionrelative:bancosrbapi.application\\services\\contacorrenteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F926ED35-3060-4952-A112-182BB2018EFC}|BancoSrbApi.csproj|c:\\users\\samuk\\onedrive\\desktop\\gfttest\\bancosrbapi\\bancosrbapi.infrastructure\\repository\\movimentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F926ED35-3060-4952-A112-182BB2018EFC}|BancoSrbApi.csproj|solutionrelative:bancosrbapi.infrastructure\\repository\\movimentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F926ED35-3060-4952-A112-182BB2018EFC}|BancoSrbApi.csproj|c:\\users\\samuk\\onedrive\\desktop\\gfttest\\bancosrbapi\\bancosrbapi.domain\\interface\\imovimentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F926ED35-3060-4952-A112-182BB2018EFC}|BancoSrbApi.csproj|solutionrelative:bancosrbapi.domain\\interface\\imovimentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F926ED35-3060-4952-A112-182BB2018EFC}|BancoSrbApi.csproj|c:\\users\\samuk\\onedrive\\desktop\\gfttest\\bancosrbapi\\bancosrbapi.web\\controllers\\contacorrentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F926ED35-3060-4952-A112-182BB2018EFC}|BancoSrbApi.csproj|solutionrelative:bancosrbapi.web\\controllers\\contacorrentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContaCorrenteController.cs",
+              "DocumentMoniker": "C:\\Users\\samuk\\OneDrive\\Desktop\\GftTest\\BancoSrbApi\\BancoSrbApi.Web\\Controllers\\ContaCorrenteController.cs",
+              "RelativeDocumentMoniker": "BancoSrbApi.Web\\Controllers\\ContaCorrenteController.cs",
+              "ToolTip": "C:\\Users\\samuk\\OneDrive\\Desktop\\GftTest\\BancoSrbApi\\BancoSrbApi.Web\\Controllers\\ContaCorrenteController.cs",
+              "RelativeToolTip": "BancoSrbApi.Web\\Controllers\\ContaCorrenteController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:29:30.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaCorrenteService.cs",
+              "DocumentMoniker": "C:\\Users\\samuk\\OneDrive\\Desktop\\GftTest\\BancoSrbApi\\BancoSrbApi.Application\\Services\\ContaCorrenteService.cs",
+              "RelativeDocumentMoniker": "BancoSrbApi.Application\\Services\\ContaCorrenteService.cs",
+              "ToolTip": "C:\\Users\\samuk\\OneDrive\\Desktop\\GftTest\\BancoSrbApi\\BancoSrbApi.Application\\Services\\ContaCorrenteService.cs",
+              "RelativeToolTip": "BancoSrbApi.Application\\Services\\ContaCorrenteService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:28:39.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovimentoService.cs",
+              "DocumentMoniker": "C:\\Users\\samuk\\OneDrive\\Desktop\\GftTest\\BancoSrbApi\\BancoSrbApi.Application\\Services\\MovimentoService.cs",
+              "RelativeDocumentMoniker": "BancoSrbApi.Application\\Services\\MovimentoService.cs",
+              "ToolTip": "C:\\Users\\samuk\\OneDrive\\Desktop\\GftTest\\BancoSrbApi\\BancoSrbApi.Application\\Services\\MovimentoService.cs",
+              "RelativeToolTip": "BancoSrbApi.Application\\Services\\MovimentoService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAawCoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:28:24.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovimentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\samuk\\OneDrive\\Desktop\\GftTest\\BancoSrbApi\\BancoSrbApi.Infrastructure\\Repository\\MovimentoRepository.cs",
+              "RelativeDocumentMoniker": "BancoSrbApi.Infrastructure\\Repository\\MovimentoRepository.cs",
+              "ToolTip": "C:\\Users\\samuk\\OneDrive\\Desktop\\GftTest\\BancoSrbApi\\BancoSrbApi.Infrastructure\\Repository\\MovimentoRepository.cs",
+              "RelativeToolTip": "BancoSrbApi.Infrastructure\\Repository\\MovimentoRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:28:00.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMovimentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\samuk\\OneDrive\\Desktop\\GftTest\\BancoSrbApi\\BancoSrbApi.Domain\\Interface\\IMovimentoRepository.cs",
+              "RelativeDocumentMoniker": "BancoSrbApi.Domain\\Interface\\IMovimentoRepository.cs",
+              "ToolTip": "C:\\Users\\samuk\\OneDrive\\Desktop\\GftTest\\BancoSrbApi\\BancoSrbApi.Domain\\Interface\\IMovimentoRepository.cs",
+              "RelativeToolTip": "BancoSrbApi.Domain\\Interface\\IMovimentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T20:27:31.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
